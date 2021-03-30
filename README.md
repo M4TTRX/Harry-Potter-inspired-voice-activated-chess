@@ -19,14 +19,18 @@ will allow up to two people to play a full game of chess using only their voices
 accessible and enjoyable user experience for those with disabilities or limited movement. 
 
 The final report and final video can be found as pdf / mp4 files titled "FINALCHESS". 
+## Demos
+### Product Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1SvCCEozKVY/0.jpg)](https://www.youtube.com/watch?v=1SvCCEozKVY)
 
-#### A few demonstration videos of the working product are shown below. 
+### A few demonstration videos of the working product are shown below. 
 ![prototypeDemoGif](https://user-images.githubusercontent.com/46120322/56384830-7171c100-61eb-11e9-8654-890da150d713.gif)
 ![demo1](https://user-images.githubusercontent.com/46120322/56385679-db8b6580-61ed-11e9-8cad-688e90f3df2d.gif)
 ![demo2](https://user-images.githubusercontent.com/46120322/56385834-33c26780-61ee-11e9-83e8-2f92fbf7faeb.gif)
 
 
-### Pictures of the construction of the board and the final product presented at the CISC/CMPE 325 showcase can been seen below.
+## Construction
+Pictures of the construction of the board and the final product presented at the CISC/CMPE 325 showcase can been seen below.
 ![file](https://user-images.githubusercontent.com/46120322/56382769-2acd9800-61e6-11e9-8619-bb381753125c.jpeg)
 ![InkedInkedfile-1_LI](https://user-images.githubusercontent.com/46120322/56382771-2acd9800-61e6-11e9-9c17-49fe44e784c9.jpg)
 ![54257790_258083521734355_2430968063814795264_n](https://user-images.githubusercontent.com/46120322/56382766-2acd9800-61e6-11e9-8149-b27a0727d0b5.jpg)
